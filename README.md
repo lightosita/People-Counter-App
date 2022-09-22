@@ -1,2 +1,3 @@
-# People-Counter-App
-counter to count and save count
+# A mini image gallery 
+compiled with html,css and js.
+
